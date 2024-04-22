@@ -1,2 +1,2 @@
-# zndemirpolat.github.io.
+# zndemirpolat.github.io
 My personal website
